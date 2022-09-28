@@ -5,6 +5,11 @@ webapp that uses twilio api to send SMS alerts
 #TODO
 
 test application
+
 intergrate frontend
+
 alert new users
+
+automate infrastructure with terraform
+
 
